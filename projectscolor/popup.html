@@ -16,6 +16,10 @@
     <input type="color" id="myColorField" class="colorpick">
             <p style="margin-left: 125px;">Pick Color</p>
     </input>
-    <script src="popup.js"></script>
+    <script src="popup.js">
+        $(document).ready(function () {
+            $("#myColorField").kendoColorPicker();
+        });
+    </script>
 </body>
 </html>
