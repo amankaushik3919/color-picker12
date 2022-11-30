@@ -37,4 +37,8 @@ async function pickColor() {
     } catch (err) {
         console.log(err);
     }
-}
+};
+//color picker
+$(document).ready(function(){
+    $("#myColorField").kendoColorPicker();
+});

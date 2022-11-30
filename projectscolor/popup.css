@@ -5,6 +5,8 @@ body{
     width: 300px;
     text-align: center;
 }
+
+/* button color changer */
 .changeColorBtn{
     width: 200px;
     outline: none;
@@ -15,6 +17,7 @@ body{
     cursor: pointer;
 }
 .colorGrid{
+    margin-left: 100px;
     display: inline-block;
     width: 20px;
     height: 20px;
@@ -28,4 +31,12 @@ body{
 .colorValue{
     margin-left: 5px;
     font-weight: bold;
+}
+
+.colorpick{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-left: 125px;
+    border: 1px;
 }
