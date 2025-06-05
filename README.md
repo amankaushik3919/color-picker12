@@ -10,10 +10,6 @@ A clean and minimal web-based **Color Picker** built using **HTML**, **CSS**, an
 - 💡 User feedback when color code is copied
 - ✨ Responsive and minimal design
 
-## 📸 Preview
-
-> *(Add a screenshot here if needed — press `PrtSc`, crop, and upload to GitHub to get the link)*
-
 ## 🛠️ Tech Stack
 
 - **HTML5** – Structure of the app
