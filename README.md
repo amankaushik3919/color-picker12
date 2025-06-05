@@ -1,8 +1,3 @@
-Here's your final polished `README.md` for the **Color Picker** project — ready to upload directly to your GitHub repo:
-
----
-
-```markdown
 # 🎨 Color Picker Web App
 
 A clean and minimal web-based **Color Picker** built using **HTML**, **CSS**, and **JavaScript**. Instantly pick a color and copy its HEX code — simple, fast, and efficient. Perfect for web designers, developers, and UI/UX enthusiasts.
@@ -27,22 +22,19 @@ A clean and minimal web-based **Color Picker** built using **HTML**, **CSS**, an
 
 ## 📁 Project Structure
 
-```
 
 color-picker12/
 ├── index.html       # Main HTML file
 ├── style.css        # Stylesheet
 └── script.js        # JavaScript logic
 
-````
-
 ## 💻 How to Use
 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/amankaushik3919/color-picker12.git
-   cd color-picker12
-````
+   cd color-picker12  
+   ```
 
 2. **Open `index.html`** in your web browser.
 
@@ -70,7 +62,3 @@ Made with ❤️ by [Aman Kaushik](https://github.com/amankaushik3919)
 ---
 
 *Feel free to ⭐️ this repo if you find it useful!*
-
-```
-
-```
