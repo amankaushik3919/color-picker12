@@ -1,4 +1,4 @@
-# 🎨 Color Picker Web App
+# 🎨 Color Picker Web Extension
 
 A clean and minimal web-based **Color Picker** built using **HTML**, **CSS**, and **JavaScript**. Instantly pick a color and copy its HEX code — simple, fast, and efficient. Perfect for web designers, developers, and UI/UX enthusiasts.
 
